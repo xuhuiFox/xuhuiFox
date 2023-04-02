@@ -9,6 +9,8 @@ import java.util.*;
 import java.util.stream.IntStream;
 
 /**
+ * 最多颜色的车辆
+ *
  * 题目描述
  * 在一个狭小的路口，每秒只能通过一辆车，假设车辆的颜色只有 3 种，找出 N 秒内经过的最多颜色的车辆数量。
  * 三种颜色编号为0 ，1 ，2
